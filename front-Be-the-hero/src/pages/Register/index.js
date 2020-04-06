@@ -17,7 +17,7 @@ export default function Register(){
 
                     <Link className="back-link" to="/">
                         <FiArrowLeft size={16} color="#e02041" />
-                        Voltar
+                        Voltar a pagina inicial
                     </Link>
                 </section>
                 <form>
